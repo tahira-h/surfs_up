@@ -35,7 +35,7 @@ As shown in the image below, temperatures for the month of December in Oahu, Haw
 
 Open the file containing the December Temps.
 
-![December Temps](/surfs_up/surfs_up/December_Temps.png)
+![December_Temps](/surfs_up/December_Temps.png)
 
 Close the file.
 
