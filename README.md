@@ -24,12 +24,9 @@ Temperatures for June and December
 
 As shown in the image below, temperatures for the month of June in Oahu, Hawaii resulted as count(1700.000000), mean(74.944118), std(3.257417), min(64.000000), 25%(73.000000), 50%(75.000000), 75%(77.000000), and max(85.000000).
 
-   -- IMAGE HERE--
-   JUNE TEMPS
-   
 Open the file containing June Temps.
 
-![June_Temps](surfs_up/surfs_up/June_Temps.png)
+![June_Temps](/surfs_up/surfs_up/June_Temps.png)
 
 Close the file.
    
