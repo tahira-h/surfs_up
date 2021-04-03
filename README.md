@@ -39,7 +39,7 @@ Open the file containing the December Temps.
 
 Close the file.
 
-The provided temperatures for the months of June and December in Oahu, Hawaii does not have a large gap between the results. The calculated results of this analysis determines that the "Surf and Ice Cream" shop will be a sustainable business year round. 
+Provided temperatures for the months of June and December in Oahu, Hawaii does not have a large gap between the results. The calculated results of this analysis determines that the "Surf and Ice Cream" shop will be a sustainable business year round. 
 	 		
 
 
