@@ -33,7 +33,7 @@ As shown in the image below, temperatures for the month of December in Oahu, Haw
   -- IMAGE HERE-- 
  DECEMBER TEMPS
  
-The provided temperatures for the months of June and December in Oahu, Hawaii does not have a large gap between the results. The results of this analysis determines that the "Surf and Ice Cream" shop will be a sustainable business year round. 
+The provided temperatures for the months of June and December in Oahu, Hawaii does not have a large gap between the results. The calculated results of this analysis determines that the "Surf and Ice Cream" shop will be a sustainable business year round. 
 	 		
 
 
