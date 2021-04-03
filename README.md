@@ -4,7 +4,7 @@ OVERVIEW
 
 The Purpose of this Analysis
 
-The purpose of this analysis is provide more information about temperature trends for the months of June and December in Oahu, Hawaii. Temperature trends will provide temperature data for the months of June and December to determine if a "Surf and Ice Cream" shop will be a sustainable business year-round. 
+The purpose of this analysis is to provide more information about temperature trends for the months of June and December in Oahu, Hawaii. Temperature trends will provide temperature data for the months of June and December to determine if a "Surf and Ice Cream" shop will be a sustainable business year-round. 
 
 RESULTS
 
