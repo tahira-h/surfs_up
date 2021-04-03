@@ -27,12 +27,24 @@ As shown in the image below, temperatures for the month of June in Oahu, Hawaii 
    -- IMAGE HERE--
    JUNE TEMPS
    
+Open the file containing June Temps.
+
+![June Temps](/PyBer_Analysis/analysis/DataFrame_Summary.png)
+
+Close the file.
+   
    
 As shown in the image below, temperatures for the month of December in Oahu, Hawaii results as count(1517.000000), mean(71.041529), std(3.745920), min(56.000000), 25%(69.000000), 50%(71.000000), 75%(74.000000), and max(83.000000).
 
   -- IMAGE HERE-- 
  DECEMBER TEMPS
- 
+
+Open the file containing the December Temps.
+
+![December Temps](/PyBer_Analysis/analysis/DataFrame_Summary.png)
+
+Close the file.
+
 The provided temperatures for the months of June and December in Oahu, Hawaii does not have a large gap between the results. The calculated results of this analysis determines that the "Surf and Ice Cream" shop will be a sustainable business year round. 
 	 		
 
