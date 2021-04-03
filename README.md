@@ -29,7 +29,7 @@ As shown in the image below, temperatures for the month of June in Oahu, Hawaii 
    
 Open the file containing June Temps.
 
-![June Temps](/surfs_up/June Temps.png)
+![June_Temps](/surfs_up/June Temps.png)
 
 Close the file.
    
